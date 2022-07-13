@@ -1,0 +1,222 @@
+https://themeforest.net/item/softek-software-it-solutions-wordpress-theme/29554845
+https://themeforest.net/item/utech-it-solution-and-technology-wordpress-theme/33037470
+
+
+https://wp.quomodosoft.com/utech/home-v5/
+
+https://softek.radiantthemes.com/home-version-two/
+
+
+
+1) Take laravel Overview from 
+	- https://www.tutorialspoint.com/laravel/laravel_overview.htm
+	- what is composer
+	- Install Laravel
+	- Test Demo
+	- Sample Changes
+
+2) Explaining Laravel Folder And File Structure
+	
+3) Laravel Routing With Example
+	- What is Routing
+	- How to make Routing
+	- Pass Data with Routing
+	- Anchor Tag
+	- Redirect
+	
+4) Laravel Controller With Example
+	- What is Controller
+	- How to make a controller
+	- Make Function in controller
+	- Call Controller from routing
+	- Pass Params with URL
+	
+5) Laravel View with Example
+	- What is View
+	- Make a View
+	- Call View
+	- Pass Data in View
+	
+6) Laravel Component with Example
+	- What is Component
+	- Make a Component
+	- Use a Component
+	- Pass data in a component
+	
+7) Laravel Blade Template 
+	- What is blade template
+	- Blade template Expression
+	- Conditions
+	- For and Foreach loop
+	- Include VIew in View
+	- Header and Footer
+
+8) Laravel Form Submit and Validation
+	- Make Html Form
+	- Route View and Post data to Controller
+	- Get form Data in Second Page
+	- Use Validation Functions
+	- Show Error Message for Form Field
+	
+9) Laravel Middleware and Group Middleware
+	- What is Middleware and Type
+	- Make Middleware
+	- Apply Middleware 
+	- Apply Group Middleware
+	
+10) Laravel Model with Example 
+	- What is Model
+	- Make Model
+	- Configure Database
+	- Fetch and Show Data from Model
+	- Laravel pagination
+
+11) Laravel Crud Operation with Example
+	- Show Data from Table
+	- Save Data in Table
+	- Delete data from Table
+	- Update Data in Table
+	- Query Builder Where Condition, Find, Count
+	
+12) Laravel Aggregates Query 
+	- What is aggregates Query
+	- Sum, Max, Min, Avg, 
+	- Cross Check with DB
+
+13) Laravel Joins Table 
+	- What is Joins
+	- Make Controller
+	- Import DB Files
+	- Join with Where Condition
+	
+14) Laravel Migration
+	- What is Migration
+	- Make Table with Migration
+	- Write Code for Column Field
+	- Migrate Database
+	- How to reset migration
+	- Rollback Migration
+	- Rollback Steps, Refresh, Single File Migration
+	
+15) Laravel Http Client, Http Request Methods
+	- What is Http Client
+	- How to use http Client
+	- Send Data to View
+	- Http Request Methods
+
+16) Laravel Session
+	- What is Session
+	- Store data in session
+	- Get Data from session
+	- Delete Data from Session
+
+17) Laravel Flash Session
+	- What is Flash Session
+	- Store data in Flash Session
+	- Get Data from Flash Session
+	- Delete data from Session
+	
+18) Laravel Upload File
+	- Make View html Form
+	- Make html Controller
+	- Code for Upload File
+	
+19) Laravel Localization
+	- What is Localization
+	- How to define Localization
+	- Set Default Locale
+	- Set Locale with Route
+	
+20) Laravel Seeding
+	- what is seeding
+	- How to generate Seeder File
+	- Data seeding
+	- Run Seeding for Database
+	
+21) Laravel Accessor
+	- What is accessor
+	- Make Controller
+	- Make model
+	- Make accessor Function
+
+22) Laravel Mutator
+	- What is Mutator
+	- Make Controller
+	- Make Model
+	- Make a Mutator Function
+
+23) Laravel One to One and One to Many
+	- What is Relation
+	- One to One Relation
+	- One to Many Relation
+	- Make Model and Controller
+	- Make Relation and Show Data
+	
+24) Laravel Route Model Binding
+	- What is Route Model Binding
+	- Make Model and Controler
+	- Understanding with Example
+	
+25) Laravel Mail Template and Emailing
+	- What is Laravel Mail
+	- How to Create Sample Using Command
+	- Try Design Sample from Laravel
+	- Send Mail
+	
+26) Laravel Multiple DB Connection
+	- DB Config
+	- Make Controller and Model
+	- Multiple DB with Query Builder
+	- Multiple DB with Model
+	
+27) Laravel API
+	- What is API
+	- Sample API Output
+	- Write Small Code
+	- How to Test API in Postman with Get
+	- Search With Get Method
+	
+28) Laravel API with Post Methods
+	- Why we use Post method
+	- Setup Postman for Post Api
+	- Code for Post Api
+	- Test Api
+	- Search with Post Method
+	
+29) Laravel API with PUT Methods
+	- Why we use PUT Methods
+	- Setup Postman for PUT Api
+	- Code for Put Api
+	- Test Api
+	
+30) Laravel API with DELETE Methods
+	- Why we use DELETE Methods
+	- Setup Postman for DELETE Api
+	- Code for DELETE Function
+	- Test Api
+
+31) Laravel API Validation
+	- What is API Validation
+	- Make Route
+	- Add Validation
+	- Save and Return Result
+	- Test Api
+	
+32) Laravel API with Resource
+	- Make Resource
+	- Make Route for Resource
+	- Example Code
+	- Test Api
+	
+33) Laravel API auth with Sanctum
+	- Sanctum Install and Config
+	- Migration and Controller
+	- Example with Api
+	- Test Api
+	
+34) Laravel API for Uploading File
+	- Make Controller and Route
+	- Write code for Uploading file
+	- Setup Postman for Uploading File
+	- Test API and Upload File
+
